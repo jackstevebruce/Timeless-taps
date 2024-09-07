@@ -5,6 +5,7 @@
 
 
 # Timeless Taps
+## [CLICK HERE TO PLAY](https://jackstevebruce.github.io/Timeless-taps/index.html) 
 Experience the classic Snake game with a retro twist on the Nintendo Switch. Enjoy the nostalgic gameplay and pixelated graphics that harken back to the early days of gaming. The game offers simple controls and engaging challenges, perfect for a quick and fun gaming session. Embrace the charm of this timeless arcade classic on a modern platform.
 ## Team members
 1. [Adithyan B Raj](https://github.com/Adithyan-b-raj)
