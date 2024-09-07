@@ -14,7 +14,7 @@ Experience the classic Snake game with a retro twist on the Nintendo Switch. Enj
 [link to video](Link Here)
 ## How it Works ?
 1. The game is controlled and played using arrows keys in keyboard.
-2. Embed video of project demo
+2. Link to site: https://jackstevebruce.github.io/Timeless-taps/index.html
 ## Libraries used
 Library Name - Version
 ## How to configure
